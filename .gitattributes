@@ -1,0 +1,13 @@
+* text=auto
+
+*.py text eol=crlf
+*.ps1 text eol=crlf
+*.bat text eol=crlf
+*.md text eol=crlf
+LICENSE text eol=lf
+
+# Binários não devem ser normalizados
+*.pdf binary
+*.jpg binary
+*.jpeg binary
+*.png binary

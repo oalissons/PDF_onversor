@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+.venv/
+venv/
+env/
+.python-version
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Pastas de saída geradas pelos conversores
+* PDF/
+* HTML/
+_backup/
+
+# Windows
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+$RECYCLE.BIN/
+
+# Editores/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
